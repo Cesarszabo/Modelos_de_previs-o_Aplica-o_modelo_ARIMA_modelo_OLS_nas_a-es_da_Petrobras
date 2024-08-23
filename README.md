@@ -1,0 +1,1 @@
+# Modelos_de_previs-o_Aplica-o_modelo_ARIMA_modelo_OLS_nas_a-es_da_Petrobras
